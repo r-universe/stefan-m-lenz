@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "JuliaConnectoR"]
+	path = JuliaConnectoR
+	url = https://github.com/stefan-m-lenz/juliaconnector
+	shallow = true
+	registered = true
